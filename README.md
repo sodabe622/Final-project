@@ -1,10 +1,4 @@
 # Final-project
-Augmented Reality
-This project consists of:
-1. ARKit
+Proposal:
 
- 2.AR Foundation
-
-3. Face Tracking
-
-4. Blend Shapes 
+ This project introduces an innovative augmented reality (AR) experience centered around interactive food interactions and advanced face tracking technology. Through the magic of AR, users can immerse themselves in a virtual environment where they can interact with a wide variety of virtual foods using intuitive mouth gestures. From virtually "eating" food to blowing out candles on a virtual cake, the possibilities for playful interactions are endless. By integrating precise face tracking capabilities, the experience becomes even more immersive, with virtual food reacting dynamically to users' movements and expressions. This project offers a captivating blend of AR technology and culinary exploration, inviting users to engage with food in entirely new and exciting ways.
