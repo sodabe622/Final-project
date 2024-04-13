@@ -1,29 +1,29 @@
 # Final-project
 -----------------------
-Research Overview:
+-Research Overview:
 
 This research explores user interaction with a mixture of physical and virtual objects in an augmented reality environment, specifically tailored for outdoor settings. The primary aim is to assess whether individuals pay more attention to virtual objects compared to physical ones. By integrating innovative AR technology with traditional environmental cues, the study offers novel insights into human perceptual habits and cognitive processing in mixed realities.
 
 
-How to Run:
+1.How to Run:
 
 Prerequisites
 Microsoft HoloLens or compatible AR headset
 Appropriate AR software and tracking setups
 
-Setup:
+2.Setup:
 
 Ensure all equipment is calibrated according to the guidelines provided.
 Install all necessary software, ensuring compatibility with the AR headset.
 
-Execution:
+3.Execution:
 
 To start the experiment, execute the provided scripts which guide the AR headset to begin data logging.
 Follow on-screen instructions for navigating the experimental setup.
 
 
-Phases of the Research:
-
+#Phases of the Research:
+--------------------------------------------
 Phase 1: Learning Trial
 Participants are introduced to the real environment with visible landmarks, where they learn the location of a specific target. This phase helps in familiarizing them with the experimental setup and required tasks.
 
