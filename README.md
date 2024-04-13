@@ -1,4 +1,41 @@
 # Final-project
-Proposal:
 
- This project introduces an innovative augmented reality (AR) experience centered around interactive food interactions and advanced face tracking technology. Through the magic of AR, users can immerse themselves in a virtual environment where they can interact with a wide variety of virtual foods using intuitive mouth gestures. From virtually "eating" food to blowing out candles on a virtual cake, the possibilities for playful interactions are endless. By integrating precise face tracking capabilities, the experience becomes even more immersive, with virtual food reacting dynamically to users' movements and expressions. This project offers a captivating blend of AR technology and culinary exploration, inviting users to engage with food in entirely new and exciting ways.
+Research Overview:
+This research explores user interaction with a mixture of physical and virtual objects in an augmented reality environment, specifically tailored for outdoor settings. The primary aim is to assess whether individuals pay more attention to virtual objects compared to physical ones. By integrating innovative AR technology with traditional environmental cues, the study offers novel insights into human perceptual habits and cognitive processing in mixed realities.
+
+How to Run:
+
+Prerequisites
+Microsoft HoloLens or compatible AR headset
+Appropriate AR software and tracking setups
+
+Setup:
+Ensure all equipment is calibrated according to the guidelines provided.
+Install all necessary software, ensuring compatibility with the AR headset.
+
+Execution:
+
+To start the experiment, execute the provided scripts which guide the AR headset to begin data logging.
+Follow on-screen instructions for navigating the experimental setup.
+
+Phases of the Research:
+
+Phase 1: Learning Trial
+Participants are introduced to the real environment with visible landmarks, where they learn the location of a specific target. This phase helps in familiarizing them with the experimental setup and required tasks.
+
+Phase 2: Resetting Procedure
+This phase involves reorienting participants within the AR environment to prevent previous learning from influencing subsequent performances. This is critical for maintaining the integrity of the experiment's conditions.
+
+Phase 3: Testing Trials
+In this phase, participants undergo tests in three different conditions: with only physical cues, only virtual cues, and a combination of both. This setup aims to rigorously assess their spatial memory and ability to integrate diverse types of environmental cues.
+
+Experimental Design:
+
+Dependent Variables
+Error rates in locating targets
+Time taken to complete tasks
+
+Independent Variable
+Types of cues (Physical, Virtual, Combined)
+
+Participants' interactions are meticulously logged, and their gaze data collected through AR devices, providing valuable insights into their focus and engagement levels with different types of objects. These insights are crucial for advancing our understanding of augmented reality applications in real-world environments.
