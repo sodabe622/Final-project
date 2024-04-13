@@ -23,12 +23,15 @@ Follow on-screen instructions for navigating the experimental setup.
 Phases of the Research:
 --------------------------------------------
 Phase 1: Learning Trial
+
 Participants are introduced to the real environment with visible landmarks, where they learn the location of a specific target. This phase helps in familiarizing them with the experimental setup and required tasks.
 
 Phase 2: Resetting Procedure
+
 This phase involves reorienting participants within the AR environment to prevent previous learning from influencing subsequent performances. This is critical for maintaining the integrity of the experiment's conditions.
 
 Phase 3: Testing Trials
+
 In this phase, participants undergo tests in three different conditions: with only physical cues, only virtual cues, and a combination of both. This setup aims to rigorously assess their spatial memory and ability to integrate diverse types of environmental cues.
 
 Experimental Design:
