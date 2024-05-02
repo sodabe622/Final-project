@@ -2,7 +2,30 @@ Research Overview:
 ---------------------------------------
 This research explores user interaction with a mixture of physical and virtual objects in an augmented reality environment, specifically tailored for outdoor settings. The primary aim is to assess whether individuals pay more attention to virtual objects compared to physical ones. By integrating innovative AR technology with traditional environmental cues, the study offers novel insights into human perceptual habits and cognitive processing in mixed realities.
 
+Experimental Design 
+--------------------------------------------
+The experimental setup includes four separate trials: one dedicated to learning and three for evaluation. Following each trial, a resetting phase is implemented to guarantee that participants begin each segment under uniform conditions. Additionally, the experiment features two types of landmarks: one virtual and one physical, present in the real-world environment. Both the target elements which participant need to memorize are designed to be virtual and physical in outdoor environment.
 
+Learning Trial:
+During the learning trial, participants are introduced to the real environment where all landmarks are visible. They commenced the learning phase from a starting location randomly selected to be midway along and aligned with each side of the square. If visualized within a square, these starting positions would be located at the midpoint of each edge of the square. Here, they are tasked with locating and memorizing the position of a yellow post, the target, which is clearly marked and visible. Participants navigate to this post and take the time to observe and memorize its location in relation to the landmarks.
+
+Resetting Procedure:
+After the learning trial, participants undergo a resetting procedure to clear the previous spatial setup and prepare them for the testing phase. This procedure involves the participants walking to a blue post, turning to face a red post, and pressing a button on the controller.(we are using hand or voice ). This process serves to reorient the participants within the AR tracking space and ensure that any learning from the previous trial does not directly influence their performance in the subsequent trial.
+
+Testing Trials:
+The testing trials consist of three separate tests, each beginning with the resetting procedure. In these trials, participants start the test phase at one of the remaining three starting locations ( if participants started at the southern starting location during the learning phase, they could only start at the east, west, or north locations during the test phase), which was chosen randomly. The goal is to navigate to where they remember the yellow post was, despite it not being visible. Different conditions are applied across the testing trials.
+
+
+Experimental Design:
+------------------
+Dependent Variables
+Error rates in locating targets
+Time taken to complete tasks
+
+Independent Variable
+Types of cues (Physical, Virtual, Combined)
+
+Participants' interactions are meticulously logged, and their gaze data collected through AR devices, providing valuable insights into their focus and engagement levels with different types of objects. These insights are crucial for advancing our understanding of augmented reality applications in real-world environments.
 How to Run:
 ----------------------------
 Prerequisites
@@ -93,27 +116,4 @@ If you encounter any issues during the setup or deployment process, try the foll
 - [Microsoft Azure Spatial Anchors](https://docs.microsoft.com/en-us/azure/spatial-anchors/)
 
 
-Phases of the Research:
---------------------------------------------
-Phase 1: Learning Trial
 
-Participants are introduced to the real environment with visible landmarks, where they learn the location of a specific target. This phase helps in familiarizing them with the experimental setup and required tasks.
-
-Phase 2: Resetting Procedure
-
-This phase involves reorienting participants within the AR environment to prevent previous learning from influencing subsequent performances. This is critical for maintaining the integrity of the experiment's conditions.
-
-Phase 3: Testing Trials
-
-In this phase, participants undergo tests in three different conditions: with only physical cues, only virtual cues, and a combination of both. This setup aims to rigorously assess their spatial memory and ability to integrate diverse types of environmental cues.
-
-Experimental Design:
-------------------
-Dependent Variables
-Error rates in locating targets
-Time taken to complete tasks
-
-Independent Variable
-Types of cues (Physical, Virtual, Combined)
-
-Participants' interactions are meticulously logged, and their gaze data collected through AR devices, providing valuable insights into their focus and engagement levels with different types of objects. These insights are crucial for advancing our understanding of augmented reality applications in real-world environments.
