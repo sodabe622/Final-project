@@ -18,11 +18,12 @@ The testing trials consist of three separate tests, each beginning with the rese
 
 Experimental Design:
 ------------------
-Four Trials:
-Learning
-Three Evaluation
-Resetting phase
-Two Landmark types: Virtual, Real
+-Four Trials:
+-Learning
+-Three Evaluation
+-Resetting phase
+
+Two Landmark types: Virtual, Real//
 10 Learning Trials with Varied Start Locations for participant and target
 
 Types of cues (Physical, Virtual, Combined)
