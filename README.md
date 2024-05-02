@@ -18,6 +18,18 @@ The testing trials consist of three separate tests, each beginning with the rese
 
 Experimental Design:
 ------------------
+Four Trials:
+Learning
+Three Evaluation
+Resetting phase
+
+Two Landmark types: Virtual, Real
+10 Learning Trials with Varied Start Locations for participant and target
+
+Dependent Variable:
+Error
+Time
+
 Dependent Variables
 Error rates in locating targets
 Time taken to complete tasks
@@ -25,7 +37,7 @@ Time taken to complete tasks
 Independent Variable
 Types of cues (Physical, Virtual, Combined)
 
-Participants' interactions are meticulously logged, and their gaze data collected through AR devices, providing valuable insights into their focus and engagement levels with different types of objects. These insights are crucial for advancing our understanding of augmented reality applications in real-world environments.
+
 How to Run:
 ----------------------------
 Prerequisites
