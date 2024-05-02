@@ -31,8 +31,9 @@ Types of cues (Physical, Virtual, Combined)
 
 How to Run:
 ----------------------------
-Prerequisites
-Microsoft HoloLens or compatible AR headset
+Prerequisites:
+
+Microsoft HoloLens or compatible AR headset, 
 Appropriate AR software and tracking setups
 
 Setup:
